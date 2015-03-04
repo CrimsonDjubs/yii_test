@@ -1,0 +1,1326 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"seria",
+				"serializeArray"
+			],
+			[
+				"se",
+				"serializeArray"
+			],
+			[
+				"params",
+				"params_ar"
+			],
+			[
+				"$category",
+				"$category_model"
+			],
+			[
+				"$para",
+				"$param_key"
+			],
+			[
+				"$param",
+				"$param_key"
+			],
+			[
+				"param",
+				"param_name"
+			],
+			[
+				"shop",
+				"shopFeaturedescPlugin"
+			],
+			[
+				"select",
+				"select_value"
+			],
+			[
+				"getAcc",
+				"getAccumsCollection"
+			],
+			[
+				"$capat",
+				"$capacity_from"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"$type",
+				"$type_of_cleats"
+			],
+			[
+				"tip",
+				"tip_akb"
+			],
+			[
+				"$parame",
+				"$parameters"
+			],
+			[
+				"$paramete",
+				"$parameters_array"
+			],
+			[
+				"$parameter",
+				"$parameters_array"
+			],
+			[
+				"max_x",
+				"max_x"
+			],
+			[
+				"$features",
+				"$features_model"
+			],
+			[
+				"option",
+				"optionsString"
+			],
+			[
+				"opt",
+				"optionsString"
+			],
+			[
+				"search",
+				"SearchbycarparametersPluginAjax"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"de",
+				"debug_print_var"
+			],
+			[
+				"wander",
+				"wandering_enable"
+			],
+			[
+				"wandering",
+				"wandering_end"
+			],
+			[
+				"pa",
+				"parseInt"
+			],
+			[
+				"wa",
+				"wandering"
+			],
+			[
+				"cookie",
+				"cookie_wandering"
+			],
+			[
+				"$cart",
+				"$cartContent"
+			],
+			[
+				"bonus_",
+				"bonus_money_used"
+			],
+			[
+				"pro",
+				"productID"
+			],
+			[
+				"cart",
+				"cart_content"
+			],
+			[
+				"gift",
+				"gift_enable"
+			],
+			[
+				"$_",
+				"$_POST"
+			],
+			[
+				"none",
+				"none"
+			],
+			[
+				"$ci",
+				"$current_action"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"$co",
+				"$coupon_discount_show"
+			],
+			[
+				"$discount_",
+				"$discount_sum"
+			],
+			[
+				"$res",
+				"$resDiscount"
+			],
+			[
+				"$d",
+				"$discount"
+			],
+			[
+				"$max",
+				"$max_discount_sum"
+			],
+			[
+				"bonus",
+				"bonus_money"
+			],
+			[
+				"$current",
+				"$current_action"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"$curren",
+				"$current_action"
+			],
+			[
+				"current",
+				"current_action"
+			],
+			[
+				"$_SE",
+				"$_SESSION"
+			],
+			[
+				"gifts",
+				"gifts_html"
+			],
+			[
+				"mysql_err",
+				"mysql_error"
+			],
+			[
+				"cus",
+				"customerEntry"
+			],
+			[
+				"order",
+				"orders_sum"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"coupon_",
+				"coupon_codes"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"co",
+				"coupon_id"
+			],
+			[
+				"coupon",
+				"coupon_code"
+			],
+			[
+				"c",
+				"coupon_code"
+			],
+			[
+				"enable",
+				"enabled_options"
+			],
+			[
+				"row",
+				"row_products"
+			],
+			[
+				"prod",
+				"product_id"
+			],
+			[
+				"participa",
+				"participants-products"
+			],
+			[
+				"categor",
+				"categoryID"
+			],
+			[
+				"cate",
+				"categories_string"
+			],
+			[
+				"enab",
+				"enabled_options"
+			],
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"selec",
+				"selected_boxes"
+			],
+			[
+				"parti",
+				"participants"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"adde",
+				"added_products"
+			],
+			[
+				"checke",
+				"checked_string"
+			],
+			[
+				"checked",
+				"checked_boxes"
+			],
+			[
+				"product",
+				"product_trs"
+			],
+			[
+				"check",
+				"checked_boxes"
+			],
+			[
+				"par",
+				"participants-products"
+			],
+			[
+				"find",
+				"finded-products"
+			],
+			[
+				"category",
+				"category_ids"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"string",
+				"string_to_find"
+			],
+			[
+				"finded",
+				"finded_class"
+			],
+			[
+				"uni",
+				"uni_array"
+			],
+			[
+				"chec",
+				"checked_boxes"
+			],
+			[
+				"saved_",
+				"saved_product_ids_array"
+			],
+			[
+				"sav",
+				"saved_product_ids_array"
+			],
+			[
+				"get",
+				"getCurrentFormId"
+			],
+			[
+				"sele",
+				"selected-category"
+			],
+			[
+				"cre",
+				"create-form"
+			],
+			[
+				"ch",
+				"checked_boxes"
+			],
+			[
+				"add",
+				"add-product-block"
+			],
+			[
+				"cer",
+				"certain_product_ids"
+			],
+			[
+				"categ",
+				"category_ids"
+			],
+			[
+				"ac",
+				"actions"
+			],
+			[
+				"e",
+				"event"
+			],
+			[
+				"cla",
+				"clauses"
+			],
+			[
+				"MOti",
+				"MOTIVE_PARTICIPANTS_TABLE"
+			],
+			[
+				"MO",
+				"MOTIVE_ACTIONS_TABLE"
+			],
+			[
+				"mes",
+				"message"
+			],
+			[
+				"me",
+				"message-block"
+			],
+			[
+				"cl",
+				"clauses"
+			],
+			[
+				"create",
+				"create-action-container"
+			],
+			[
+				"action",
+				"action_id"
+			],
+			[
+				"para",
+				"params_string"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"mysql_fetch_",
+				"mysql_fetch_assoc"
+			],
+			[
+				"strip",
+				"stripcslashes"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"border",
+				"border-collapse"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"p",
+				"padding-bottom"
+			],
+			[
+				"mysql_fetch",
+				"mysql_fetch_assoc"
+			],
+			[
+				"vali",
+				"valid_string"
+			],
+			[
+				"valid",
+				"Valid"
+			],
+			[
+				"fio",
+				"fio_object"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"info",
+				"info_form"
+			],
+			[
+				"is",
+				"isOptional"
+			],
+			[
+				"tagge",
+				"tagged_page"
+			],
+			[
+				"in",
+				"input_values"
+			],
+			[
+				"new",
+				"newUrl"
+			],
+			[
+				"options",
+				"optionsArray"
+			],
+			[
+				"opti",
+				"option_values"
+			],
+			[
+				"redirec",
+				"redirect_url"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "www/protected/behaviors/WebApplicationEndBehavior.php",
+			"settings":
+			{
+				"buffer_size": 1102,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/protected/components/BaseController.php",
+			"settings":
+			{
+				"buffer_size": 317,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<?php\n\nclass ApiTransfer extends CApplicationComponent \n{\n    const API_URL = 'http://82.207.103.155/api/';\n//    const API_URL = 'http://emercom.local/api/';\n    \n    public function getRunningLine($limit = null)\n    {\n        $params = array();\n        if ($limit) {\n            $params['limit'] = $limit;\n        }\n        return $this->query('runningline', $params);        \n    }\n    \n    public function getCrashs()\n    {\n        $data = $this->query('crashs');\n//		return $data;\n		$services = $data['service'];\n		$result = array();\n		while(list($key, $service) = each($services)) {\n			if(substr($service['prefix'], 0, 3)!='rep' && substr($service['prefix'], 0, 2)!='js' && $service['prefix'] != 'gradstroy' && $service['prefix'] != '') {\n				$result[count($result)] = $service;\n			}\n		}\n		$data['service'] = $result;\n		return $data;\n    }\n    \n    public function getCrash($serviceId)\n    {\n        return $this->query('crash', array('id'=>$serviceId));          \n    }\n    \n    public function map($service=null)\n    {\n        $params = array();\n        if ($service) {\n            $params['service'] = $service;\n        }   \n        return $this->query('map', $params);          \n    }\n    \n    public function getData($method,$params=array(), $post = false)\n    {   \n        return $this->query($method, $params, $post);\n    }\n    \n    private function query($method, $params = array(), $post = false)\n    {\n        $url = self::API_URL.$method.'/';\n        // print_r($url);   \n		$query_string = http_build_query($params);\n		$query_string = html_entity_decode($query_string);\n        if (!$post) {\n            if ($params) {\n                $p = array();\n                foreach ($params as $k => $v)\n                    $p[] = $k.'='.$v;\n                $url.= '?'.implode('&',$p);\n            }\n        }\n        $ch = curl_init($url);\n        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);\n        curl_setopt($ch, CURLOPT_TIMEOUT, 3);\n        if ($post) {\n            curl_setopt($ch, CURLOPT_POST, 1);\n            curl_setopt($ch, CURLOPT_POSTFIELDS, $query_string);\n        }          \n        $result = curl_exec($ch);\n        curl_close($ch);\n        $result = CJSON::decode($result);\n        if ($result) {\n            return $result;    \n        } else {\n            return array();\n        }\n    }   \n}",
+			"file": "www/protected/components/ApiTransfer.php",
+			"file_size": 2399,
+			"file_write_time": 1425389578000000,
+			"settings":
+			{
+				"buffer_size": 2322,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/protected/components/_ApiTransfer.php.bak",
+			"settings":
+			{
+				"buffer_size": 2270,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/protected/config/auth.php",
+			"settings":
+			{
+				"buffer_size": 775,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/protected/config/frontend.php",
+			"settings":
+			{
+				"buffer_size": 1333,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "www/protected/config/main.php",
+			"settings":
+			{
+				"buffer_size": 1194,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/protected/config/params.php",
+			"settings":
+			{
+				"buffer_size": 347,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 306.0,
+		"selected_items":
+		[
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 111.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/yii.test/service1563.sql",
+		"/tmp/fz3temp-1/list-thumbs.html",
+		"/var/www/wasf/www/wa-apps/shop/plugins/filters/css/filters.css",
+		"/var/www/wasf/www/wa-data/public/shop/themes/ths_pro/category.html",
+		"/var/www/wasf/www/wa-apps/shop/lib/model/shopFeature.model.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/filters/lib/actions/shopFiltersPluginFrontendFiltersCount.controller.php",
+		"/var/www/wasf/www/wa-apps/shop/lib/actions/frontend/shopFrontendCategory.action.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/featuredesc/lib/shopFeaturedesc.plugin.php",
+		"/var/www/wasf/www/wa-system/view/waPHPView.class.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/filters/lib/shopFiltersProductsCollection.class.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/filters/lib/models/shopFiltersDescriptions.model.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/filters/lib/actions/shopFiltersPluginSettings.action.php",
+		"/var/www/wasf/www/wa-apps/shop/lib/classes/shopCategories.class.php",
+		"/var/www/wasf/www/wa-apps/shop/lib/model/shopCategory.model.php",
+		"/var/www/wasf/www/wa-apps/shop/lib/actions/backend/shopBackendCategoryExpand.action.php",
+		"/var/www/wasf/www/wa-apps/shop/themes/ths_pro/product.page.html",
+		"/var/www/wasf/www/wa-apps/shop/plugins/callb/js/callb.js",
+		"/var/www/wasf/www/wa-config/apps/shop/plugins.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/searchbycarparameters/lib/shopSearchbycarparameters.plugin.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/searchbycarparameters/lib/models/shopSearchbycarparameters.model.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/searchbycarparameters/lib/actions/frontend/shopSearchbycarparametersPluginAjax.actions.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/searchbycarparameters/lib/actions/frontend/shopSearchbycarparametersPlugin.actions.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/searchbycarparameters/templates/view_accums.html",
+		"/var/www/wasf/www/wa-data/public/shop/themes/ths_pro/js/main.js",
+		"/var/www/wasf/www/wa-data/public/shop/themes/ths_pro/product.cart.html",
+		"/var/www/wasf/www/wa-data/public/shop/themes/ths_pro/product.html",
+		"/var/www/wasf/www/wa-data/public/shop/themes/ths_pro/list-thumbs.html",
+		"/var/www/wasf/www/wa-data/public/shop/themes/ths_pro/cart.html",
+		"/var/www/wasf/www/wa-data/public/site/themes/ths_pro/index.html",
+		"/var/www/wasf/www/wa-config/SystemConfig.class.php",
+		"/media/drive/Projects/thspro/ТЗ2/new.sql",
+		"/tmp/fz3temp-1/.htaccess",
+		"/media/drive/Projects/thspro/ТЗ2/bugreport_13_02_2015.txt",
+		"/var/www/wasf/www/wa-apps/shop/templates/actions/dialog/DialogProductListSettings.html",
+		"/media/drive/Projects/thspro/ТЗ2/callb-master/README.md",
+		"/var/www/wasf/www/wa-apps/shop/lib/actions/products/shopProductsSaveListSettings.controller.php",
+		"/var/www/wasf/www/wa-data/public/shop/themes/ths_pro/head.html",
+		"/var/www/wasf/www/wa-apps/shop/plugins/searchbycarparameters/lib/config/routing.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/searchbycarparameters/lib/config/plugin.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/featuredesc/lib/config/plugin.php",
+		"/media/drive/Projects/thspro/ТЗ2/тз.txt",
+		"/var/www/wasf/www/wa-apps/shop/plugins/featuredesc/lib/models/shopFeaturedesc.model.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/filters/lib/actions/shopFiltersPluginFrontendFiltersDescription.controller.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/searchbycarparameters/lib/classes/shopSearchbycarparametersViewHelper.class.php",
+		"/var/www/wasf/www/wa-apps/shop/lib/classes/shopAffiliate.class.php",
+		"/var/www/wasf/www/wa-apps/shop/lib/classes/shopViewHelper.class.php",
+		"/var/www/wasf/www/wa-apps/shop/lib/classes/shopProductsCollection.class.php",
+		"/var/www/wasf/www/wa-apps/shop/lib/actions/frontend/shopFrontend.action.php",
+		"/var/www/wasf/www/wa-apps/shop/lib/classes/shopProduct.class.php",
+		"/var/www/wasf/www/wa-apps/shop/api/v1/shop.product.search.method.php",
+		"/var/www/wasf/www/wa-apps/shop/lib/actions/frontend/shopFrontendCompare.action.php",
+		"/var/www/wasf/www/wa-apps/shop/lib/model/shopProduct.model.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/searchbycarparameters/templates/form.html",
+		"/var/www/wasf/www/wa-apps/shop/lib/model/shopProductFeatures.model.php",
+		"/var/www/wasf/www/wa-apps/shop/lib/model/shopProductFeaturesSelectable.model.php",
+		"/var/www/wasf/www/wa-apps/shop/lib/model/shopFeatureValuesDimension.model.php",
+		"/var/www/wasf/www/wa-apps/shop/lib/actions/products/shopProducts.action.php",
+		"/var/www/wasf/www/wa-apps/shop/themes/ths_pro/theme.xml",
+		"/var/www/wasf/www/wa-apps/shop/plugins/filters/lib/shopFilters.plugin.php",
+		"/var/www/wasf/www/wa-apps/shop/lib/model/shopFeatureValues.model.php",
+		"/var/www/wasf/www/wa-apps/shop/lib/model/shopProductParams.model.php",
+		"/var/www/wasf/www/wa-data/protected/wa-installer/backup/wa-apps/shop/lib/layouts/shopFrontend.layout.php",
+		"/var/www/wasf/www/wa-system/controller/waViewActions.class.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/searchbycarparameters/lib/layouts/shopSearchbycarparametersPlugin.layout.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/searchbycarparameters/lib/models/shopSearchbycarparametersPlugin.layout.php",
+		"/var/www/wasf/www/wa-system/database/waModel.class.php",
+		"/var/www/wasf/www/wa-system/controller/waViewAction.class.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/filters/js/filters.js",
+		"/var/www/wasf/www/wa-system/controller/waJsonActions.class.php",
+		"/var/www/wasf/www/wa-system/controller/waController.class.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/searchbycarparameters/lib/actions/shopSearchbycarparametersPluginFrontend.actions.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/filters/lib/config/routing.php",
+		"/var/www/wasf/www/wa-data/protected/wa-installer/backup/wa-system/controller/waJsonActions.class.php",
+		"/var/www/wasf/www/wa-system/vendors/smarty-plugins/function.wa_pagination.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/searchbycarparameters/templates/actions/settings/Settings.html",
+		"/var/www/wasf/www/wa-apps/shop/plugins/searchbycarparameters/lib/actions/shopSearchbycarparametersPluginSettings.action.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/searchbycarparameters/lib/actions/shopSearchbycarparametersPluginAjax.actions.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/searchbycarparameters/templates/actions/Settings.html",
+		"/media/drive/Projects/PostAffiPro/_postaffipro/js/postaffipro.js",
+		"/var/www/wasf/www/wa-apps/shop/plugins/smartfilters/templates/actions/show/Show.default.html",
+		"/var/www/wasf/www/wa-apps/shop/plugins/searchbycarparameters/lib/config/_routing.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/searchbycarparameters/lib/actions/_shopSearchbycarparametersPlugin.actions.php",
+		"/var/www/wasf/www/wa-system/controller/waActions.class.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/searchbycarparameters/actions/shopSearchbycarparametersPluginAjax.actions.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/filters/js/jquery-ui.core.slider.min.js",
+		"/var/www/wasf/www/wa-apps/shop/plugins/filters/templates/frontendHead.html",
+		"/var/www/wasf/www/wa-apps/shop/plugins/searchbycarparameters/lib/<?php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/searchbycarparameters/lib/config/uninstall.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/searchbycarparameters/lib/config/db.php",
+		"/var/www/wasf/www/wa-apps/shop/themes/ths_pro/head.html",
+		"/var/www/wasf/www/wa-apps/shop/themes/ths_pro/category.html",
+		"/var/www/wasf/www/wa-apps/shop/themes/ths_pro/custom.shop.js",
+		"/var/www/wasf/www/wa-apps/shop/locale/ru_RU/LC_MESSAGES/shop.mo",
+		"/var/www/wasf/www/wa-apps/shop/locale/ru_RU/LC_MESSAGES/shop.po",
+		"/var/www/wasf/www/wa-apps/shop/themes/ths_pro/js/main.js",
+		"/media/drive/Projects/thspro/ТЗ2/old_filters/frontend_in_category.html",
+		"/var/www/wasf/www/wa-apps/shop/plugins/thspro_filters/lib/config/plugin.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/thspro_filters/js/filters.min.js",
+		"/var/www/wasf/www/wa-apps/shop/plugins/thspro_filters/js/filters.js",
+		"/var/www/wasf/www/wa-apps/shop/plugins/thspro_filters/js/jquery-ui.core.slider.min.js",
+		"/var/www/wasf/www/wa-apps/shop/plugins/thspro_filters/js/jquery.tooltipster.min.js",
+		"/var/www/wasf/www/wa-apps/shop/plugins/thspro_filters/js/jquery.tooltipster.js",
+		"/var/www/wasf/www/wa-apps/shop/plugins/filters/lib/config/plugin.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/thspro_filters/templates/.htaccess",
+		"/var/www/wasf/www/wa-config/config.php",
+		"/var/www/wasf/www/wa-system/config/waConfig.class.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/thspro_filters/templates/frontendHead.html",
+		"/var/www/wasf/www/wa-apps/shop/plugins/filters/lib/actions/shopFiltersPluginDescriptionSave.controller.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/filters/lib/actions/shopFiltersPluginDescriptionEdit.action.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/filters/lib/config/install.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/filters/lib/config/uninstall.php",
+		"/var/www/wasf/www/wa-apps/shop/plugins/filters/lib/config/settings.php",
+		"/var/www/wasf/www/wa-config/db.php",
+		"/var/www/wasf/www/wa-apps/shop/lib/actions/frontend/shopFrontendProduct.action.php",
+		"/var/www/wasf/www/wa-data/public/shop/themes/ths_pro/list-table.html",
+		"/var/www/wasf/www/wa-data/public/shop/themes/ths_pro/search.html",
+		"/var/www/wasf/www/wa-data/public/shop/themes/ths_pro/cart.js",
+		"/var/www/wasf/www/wa-data/public/shop/themes/ths_pro/product.js",
+		"/var/www/wasf/www/wa-data/public/shop/themes/ths_pro/custom.shop.js",
+		"/var/www/wasf/www/wa-data/public/shop/themes/ths_pro/custom.shop.css",
+		"/var/www/wasf/www/wa-data/public/shop/themes/ths_pro/_custom.shop.css",
+		"/var/www/wasf/www/index.php",
+		"/var/www/rails_project/first_app/Gemfile",
+		"/var/www/wasf/www/wa-data/public/shop/themes/ths_pro/content.html",
+		"/tmp/fz3temp-1/custom.shop.css",
+		"/var/www/wasf/www/wa-data/public/shop/themes/ths_pro/sidebar.html",
+		"/var/www/wasf/www/wa-data/public/shop/themes/ths_pro/product.page.html",
+		"/var/www/wasf/www/wa-data/public/shop/themes/custom_test/content.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/var/www/wasf/www/wa-apps/shop",
+			"/var/www/wasf/www",
+			"/var/www/wasf/www/wa-apps",
+			"/var/www/wasf/www/wa-apps/shop/themes/ths_pro",
+			"/var/www/wasf/www",
+			"/var/www/wasf/www/wa-apps/shop",
+			"/var/www/wasf/www/wa-data/public/site",
+			"/var/www/wasf/www/wa-data/public/shop/themes/ths_pro",
+			"/var/www/wasf/www/wa-apps/shop",
+			"/var/www/wasf/www/wa-apps/shop/plugins/filters/lib",
+			"/var/www/wasf/www/wa-apps",
+			"/var/www/wasf/www",
+			"/var/www/wasf/www/wa-apps",
+			"/var/www/wasf/www",
+			"/var/www/wasf",
+			"/var/www/wasf/www",
+			"/var/www/wasf/www/wa-apps/shop/plugins/filters",
+			"/var/www/wasf/www/wa-apps/shop/plugins/filters/lib/actions",
+			"/var/www/wasf/www",
+			"/var/www/wasf/www/wa-apps",
+			"/var/www/wasf/www",
+			"/var/www/wasf/www/wa-apps/shop/themes/ths_pro",
+			"/var/www/wasf/www/wa-data/public/shop/themes/ths_pro",
+			"/var/www/wasf/www/wa-data/public/shop/themes/custom_test",
+			"E:\\WebServers\\home\\wasf\\www",
+			"E:\\WebServers\\home\\wasf\\www\\wa-apps",
+			"E:\\WebServers\\home\\wasf\\www",
+			"E:\\WebServers\\home\\wasf\\www\\wa-apps\\shop",
+			"E:\\WebServers\\home\\btime\\www\\published\\SC\\html\\scripts",
+			"E:\\WebServers\\home\\btime\\www",
+			"/var/www/btime/www",
+			"/var/www/btime/www/published/SC/html/scripts",
+			"/var/www/btime/www/published/SC/html/scripts/modules/ordering/smsmail",
+			"/var/www/btime/www/published/SC/html/scripts",
+			"/var/www/btime/www/published/SC/html/scripts/modules",
+			"/var/www/btime/www/published/SC/html/scripts",
+			"/var/www/btime/www/published/SC",
+			"/var/www/btime/www/published",
+			"/var/www/btime/www",
+			"/var/www/btime/www/published",
+			"/var/www/btime/www",
+			"/var/www/btime/www/published",
+			"/var/www/btime/www",
+			"/var/www/btime/www/published/publicdata/BEAUTI65ECOMM/attachments/SC",
+			"/var/www/btime/www/published",
+			"/var/www/btime/www/published/SC",
+			"/var/www/btime/www",
+			"/var/www/btime/www/published/SC/html/scripts/modules",
+			"/var/www/btime/www/published/SC/html/scripts/js",
+			"/var/www/btime/www/published/SC",
+			"/var/www/btime/www/published/SC/html/scripts",
+			"/var/www/btime/www",
+			"/var/www/btime/www/published/SC/html/scripts",
+			"/var/www/btime/www/published/SC",
+			"/var/www/btime/www",
+			"/var/www/btime/www/published",
+			"/var/www/btime/www",
+			"/var/www/btime/www/published/SC",
+			"/var/www/btime/www/published/SC/html",
+			"/var/www/btime/www/published",
+			"/var/www/btime/www/.cache",
+			"/var/www/btime/www/published/publicdata/BEAUTI65ECOMM/attachments/SC/themes/appliance",
+			"/var/www/btime/www/published/SC/html/scripts/templates",
+			"/var/www/btime/www/published/SC/html/scripts",
+			"/var/www/btime/www/published/SC/html",
+			"/var/www/btime/www/published/publicdata",
+			"/var/www/btime/www/published/SC/html",
+			"/var/www/btime/www/published/SC/html/scripts",
+			"/var/www/btime/www/published/SC",
+			"/var/www/btime/www/published",
+			"/var/www/btime/www/published/SC/html/scripts",
+			"/var/www/btime/www/published",
+			"/var/www/btime/www/published/SC/html/scripts",
+			"/var/www/btime/www/published/SC/html/scripts/templates/frontend",
+			"/var/www/btime/www/published/SC/html",
+			"/var/www/btime/www/published/SC/html/scripts",
+			"/var/www/btime/www/published/SC",
+			"/var/www/btime/www/published/SC/html/scripts",
+			"/var/www/btime/www/published",
+			"/var/www/btime/www",
+			"/var/www/btime/www/published/SC/html/scripts/templates/frontend",
+			"/var/www/btime/www/published/publicdata/BEAUTI65ECOMM/attachments/SC/themes/appliance",
+			"/var/www/btime/www/published/SC/html/scripts/templates/frontend",
+			"/var/www/btime/www/published/publicdata/BEAUTI65ECOMM/attachments/SC/themes/appliance",
+			"/var/www/btime/www/published/SC/html/scripts/templates/frontend",
+			"/var/www/btime/www/published/SC/html/scripts/modules",
+			"/var/www/btime/www",
+			"/var/www/btime/www/published/publicdata/BEAUTI65ECOMM/attachments/SC/themes",
+			"/var/www/btime/www/published/SC/SC/html/scripts",
+			"/var/www/btime/www/published/SC",
+			"/var/www/btime/www/published/SC/html/scripts",
+			"/var/www/btime/www",
+			"/var/www/btime/www/published/SC/html/scripts",
+			"/var/www/btime/www/published/SC/html/scripts/templates/frontend",
+			"/var/www/webasyst/www/published/SC/html/scripts",
+			"/var/www/webasyst/www/published/SC",
+			"/var/www/webasyst/www/published/SC/html/scripts",
+			"/var/www/webasyst/www/published/SC",
+			"/var/www/webasyst/www/published",
+			"/var/www/webasyst/www/",
+			"",
+			"/var/www/test_asialiner/www/templates",
+			"/var/www/test_asialiner/www",
+			"/var/www/test_asialiner/www/blockscustom",
+			"/var/www/test_asialiner/www/templatescustom",
+			"/var/www/test_asialiner/www/templatescustom/main",
+			"/var/www/asialiner/www/templates",
+			"/var/www/asialiner/www",
+			"/var/www/asialiner/www/templates",
+			"/var/www/asialiner/www/templatescustom",
+			"/var/www/asialiner/www"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"service",
+			"submit",
+			"filters-count",
+			"more-search",
+			"filters",
+			"class shopFeatureModel",
+			"shopFeatureModel",
+			"function getVars",
+			"getVars",
+			"$filters",
+			"$category",
+			"frontend_category",
+			"frontend_categroy",
+			"frontendCategory",
+			"frontend_category",
+			"frontend_categroy",
+			"frontendCate",
+			"filters",
+			"t-item",
+			":",
+			"basket-item",
+			"tovar-price",
+			"offers",
+			"$filter@iteration",
+			"exit(",
+			"echo",
+			"saveListSettingsAction",
+			"saveListSettings",
+			"stocks",
+			"basket-item",
+			"echo",
+			"print_r",
+			"shopSearchbycarparametersPlugin",
+			"more-search",
+			"filters",
+			"id",
+			"products",
+			"filters",
+			"shopProductsCollection",
+			"'products'",
+			"'product'",
+			"products",
+			"list-thumbs.html",
+			"getFeatures",
+			"geFeatures",
+			");\n",
+			"value",
+			"getTypes",
+			"getproduct",
+			"assign",
+			"waviewactions",
+			"sidebar",
+			"shopFrontendLayout",
+			"frontendlayout",
+			"waViewAction",
+			"setThemeTEmplate",
+			"shopFrontendAction",
+			"fetchAll",
+			"fetch",
+			"class waModel",
+			"waModel",
+			"print_r",
+			"exit",
+			"print",
+			"waController",
+			"waJsonActions",
+			"wa_pagination",
+			"module",
+			"&module",
+			"count",
+			"filtersCount",
+			"waJsonActions",
+			"get",
+			"loadUrl(",
+			"url",
+			"    	\n",
+			"waActions",
+			"ViewActions",
+			"shopViewActions",
+			"shopActions",
+			"more",
+			"Искать",
+			"Показать",
+			"<!-- shop app css -->",
+			"corner",
+			"hint",
+			"cart-form",
+			"add2cart",
+			"xuy",
+			"dialog",
+			"product-list",
+			".checkout",
+			"img",
+			"icon1",
+			"доставка",
+			"right-item",
+			"descr",
+			"купить",
+			"description",
+			"t-item",
+			"skus",
+			"buy",
+			"data-price",
+			"po",
+			"pol1",
+			"$breadcrumbs",
+			"tovar-price-sale",
+			"tovars",
+			"footer",
+			"h1",
+			"tovar",
+			"line",
+			"breadcrumbs",
+			"id=\"dialog\"",
+			"currency-toogle",
+			"$bestsellers",
+			"skus",
+			"$products",
+			"sku",
+			"$depth",
+			"logo-",
+			"robot",
+			".basket",
+			"search",
+			"content.html",
+			"\"content\"",
+			"content.html",
+			"search"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"REPLACE"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "www/protected/behaviors/WebApplicationEndBehavior.php",
+					"settings":
+					{
+						"buffer_size": 1102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7,
+								7
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/protected/components/BaseController.php",
+					"settings":
+					{
+						"buffer_size": 317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								213,
+								213
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "www/protected/components/ApiTransfer.php",
+					"settings":
+					{
+						"buffer_size": 2322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1488,
+								1488
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "www/protected/components/_ApiTransfer.php.bak",
+					"settings":
+					{
+						"buffer_size": 2270,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1878,
+								1878
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "www/protected/config/auth.php",
+					"settings":
+					{
+						"buffer_size": 775,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "www/protected/config/frontend.php",
+					"settings":
+					{
+						"buffer_size": 1333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "www/protected/config/main.php",
+					"settings":
+					{
+						"buffer_size": 1194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "www/protected/config/params.php",
+					"settings":
+					{
+						"buffer_size": 347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"shoppingcart",
+				"www/published/SC/html/scripts/classes/class.shoppingcart.php"
+			],
+			[
+				"picture",
+				"www/published/SC/html/scripts/core_functions/picture_functions.php"
+			],
+			[
+				"class",
+				"www/kernel/class.classmanager.php"
+			],
+			[
+				"languages",
+				"www/published/SC/html/scripts/classes/class.languagesmanager.php"
+			],
+			[
+				"product_images",
+				"www/published/SC/html/scripts/templates/frontend/product_images.html"
+			],
+			[
+				"searchcategories",
+				"blocks/SearchCategories.class.php"
+			],
+			[
+				"",
+				"/var/www/asialiner/templates/blocks/rating_lists/brands.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 486.0,
+	"status_bar_visible": true
+}

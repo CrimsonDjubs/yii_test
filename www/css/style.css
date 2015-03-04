@@ -1,0 +1,101 @@
+#main {
+	background-color: #004b67;
+}
+
+#header {
+	background-color: #fff; 
+	padding: 20px; 
+	padding-top: 10px
+}
+
+#title {
+	 padding-top: 30px;
+}
+
+#title h4 {
+	color: #004b67;
+}
+
+#header h6 {
+	color: red;
+}
+
+#langs-wrapper {
+	position: absolute; 
+	top: 10px; 
+	width: 900px;
+}
+
+#menu {
+	 background-color: #e0e0e0;
+}
+
+#runLine-wrapper {
+	padding-top: 10px; 
+        padding-bottom: 10px; 
+	color: #fff;
+}
+
+.panel-head {
+	background-color: #5198b3; 
+	padding: 10px; 
+	color: #6b3800;
+	font-weight: 800;
+}
+
+.panel-body {
+	background-color: #fff; 
+	padding: 10px; 
+	color: #6b3800; 
+	margin-bottom: 20px;
+}
+
+#main-content {
+	background-color: #fff; 
+	padding: 10px;
+}
+
+.headerinfo {
+	font-size: 12px; 
+	font-style: italic;
+}
+
+#weather-informer {
+	float: right; 
+	margin-top: 8px;
+}
+
+#footer {
+	background-color: #003043; 
+	width: 100%; 
+	height: 100px; 
+	text-align: center; 
+	padding-top: 20px; 
+	color: #fff; 
+	font-size: 10px; 
+	margin-top: 20px;
+}
+
+#footer-menu {
+	color: #08c; 
+	font-size: 12px; 
+	margin-bottom: 10px;
+}
+
+.btn-primary a{
+    color:#fff;
+}
+.btn-primary:hover a{
+    color:#fff;
+    text-decoration: none;
+}
+.active.btn.btn-primary {
+    background-color:#fff;
+    color:#000;
+}
+.active.btn.btn-primary a{
+    color:#000;
+}
+.btn.btn-mini {
+    color:#0044cc;
+}

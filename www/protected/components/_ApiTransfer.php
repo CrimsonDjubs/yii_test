@@ -1,0 +1,81 @@
+<?php
+
+class ApiTransfer extends CApplicationComponent 
+{
+    const API_URL = '';
+//    const API_URL = '';
+    
+    public function getRunningLine($limit = null)
+    {
+        $params = array();
+        if ($limit) {
+            $params['limit'] = $limit;
+        }
+        return $this->query('runningline', $params);        
+    }
+    
+    public function getCrashs()
+    {
+        $data = $this->query('crashs');
+//		return $data;
+		$services = $data['service'];
+		$result = array();
+		while(list($key, $service) = each($services)) {
+			if(substr($service['prefix'], 0, 3)!='rep' && substr($service['prefix'], 0, 2)!='js' && $service['prefix'] != 'gradstroy' && $service['prefix'] != '') {
+				$result[count($result)] = $service;
+			}
+		}
+		$data['service'] = $result;
+		return $data;
+    }
+    
+    public function getCrash($serviceId)
+    {
+        return $this->query('crash', array('id'=>$serviceId));          
+    }
+    
+    public function map($service=null)
+    {
+        $params = array();
+        if ($service) {
+            $params['service'] = $service;
+        }   
+        return $this->query('map', $params);          
+    }
+    
+    public function getData($method,$params=array(), $post = false)
+    {   
+        return $this->query($method, $params, $post);
+    }
+    
+    private function query($method, $params = array(), $post = false)
+    {
+        $url = self::API_URL.$method.'/';
+        // print_r($url);
+		$query_string = http_build_query($params);
+		$query_string = html_entity_decode($query_string);
+        if (!$post) {
+            if ($params) {
+                $p = array();
+                foreach ($params as $k => $v)
+                    $p[] = $k.'='.$v;
+                $url.= '?'.implode('&',$p);
+            }
+        }
+        $ch = curl_init($url);
+        curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+        curl_setopt($ch, CURLOPT_TIMEOUT, 3);
+        if ($post) {
+            curl_setopt($ch, CURLOPT_POST, 1);
+            curl_setopt($ch, CURLOPT_POSTFIELDS, $query_string);
+        }          
+        $result = curl_exec($ch);
+        curl_close($ch);
+        $result = CJSON::decode($result);
+        if ($result) {
+            return $result;    
+        } else {
+            return array();
+        }
+    }   
+}

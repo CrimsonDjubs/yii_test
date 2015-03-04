@@ -1,0 +1,6 @@
+[11-May-2012 05:20:34] PHP Warning:  Invalid argument supplied for foreach() in /home/sevras8/public_html/1563/protected/components/widgets/views/fRunLine.php on line 16
+[11-May-2012 05:20:34] PHP Warning:  Invalid argument supplied for foreach() in /home/sevras8/public_html/1563/protected/components/widgets/views/fCrashs.php on line 6
+[11-May-2012 05:20:35] PHP Warning:  Invalid argument supplied for foreach() in /home/sevras8/public_html/1563/protected/components/widgets/views/fRunLine.php on line 16
+[11-May-2012 05:20:35] PHP Warning:  Invalid argument supplied for foreach() in /home/sevras8/public_html/1563/protected/components/widgets/views/fCrashs.php on line 6
+[11-May-2012 05:20:45] PHP Warning:  Invalid argument supplied for foreach() in /home/sevras8/public_html/1563/protected/components/widgets/views/fRunLine.php on line 16
+[11-May-2012 05:20:45] PHP Warning:  Invalid argument supplied for foreach() in /home/sevras8/public_html/1563/protected/components/widgets/views/fCrashs.php on line 6
